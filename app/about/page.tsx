@@ -40,7 +40,7 @@ export default function AboutPage() {
         </div>
       </Section>
 
-      <div className="container-x"><div className="relative aspect-[21/9] rounded-2xl overflow-hidden bg-canvas border border-line"><Image src="/img/team-boardroom.png" alt="Studio Kola HQ" fill sizes="1200px" className="object-cover" /></div></div>
+      <div className="container-x"><div className="relative aspect-[21/9] rounded-2xl overflow-hidden bg-canvas border border-line"><Image src="/img/hero-scene.jpg" alt="Studio Kola HQ" fill sizes="1200px" className="object-cover" /></div></div>
 
       <Section tone="canvas" pad="lg">
         <SectionHeader eyebrow="What we believe" title="Four things we do differently." />

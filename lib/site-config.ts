@@ -11,7 +11,7 @@ export const siteConfig = {
   maker: {
     name: "Adaobi Nnamdi",
     role: "Systems designer · Notion Ambassador",
-    portrait: "/img/creator.png",
+    portrait: "/img/hero-portrait.jpg",
     shortBio: "I build the Notion systems I wish I had when I was scaling my own agency.",
     longBio: [
       "I spent 5 years running a design studio in Lagos. Notion was the operating system that made it possible to grow from 2 to 14 people without adding a single Ops hire.",
